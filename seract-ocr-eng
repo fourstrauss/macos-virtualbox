@@ -1,0 +1,2 @@
+Running the script on a non-interactive shell requires the following packages:
+    tesseract-ocr >= 4    tesseract-ocr-eng
